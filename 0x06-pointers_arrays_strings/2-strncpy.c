@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * _strncpy - copy n characters from src to dest
  * @dest: destination buffer
